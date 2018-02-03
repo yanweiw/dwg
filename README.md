@@ -1,6 +1,6 @@
 # Dual Wing Generator
 
-For my undergraduate physics thesis at [Middlebury College](www.middlebury.edu), I did a computational fluid dynamics (CFD) simulation of [Festo's Dual-Wing generator](https://www.festo.com/group/en/cms/10222.htm) using COMSOL CFD package. This work is done in 2016, supervised by Prof. Richard Wolfson.
+For my undergraduate physics thesis at [Middlebury College](http://www.middlebury.edu), I did a computational fluid dynamics (CFD) simulation of [Festo's Dual-Wing generator](https://www.festo.com/group/en/cms/10222.htm) using COMSOL CFD package. This work is done in 2016, supervised by Prof. Richard Wolfson.
 
 
 ## What is Dual Wing Generator
@@ -25,12 +25,12 @@ CFD simulation plots the pressure distribution around the DWG at wind speed of 8
 [Dr. Wolfgang Send](http://www.aniprop.de/dlrhp) is the lead scientist behind Festo's DWG project. After I shared with him my results, he sent me the experimental flow data he acquired using particle image velocimetry (PIV). The similarity between his experimental plots and my simulation plots suggests the validity of my results. Details of his work on this can be found in his [paper](http://link.springer.com/chapter/10.1007/978-3-319-27279-5_77).
 
 <!-- ![PIV_results](image/U08_2Hz_dw28_fa100_lr02_v_uabs_t015.gif) -->
-<img src="image/U08_2Hz_dw28_fa100_lr02_v_uabs_t015.gif" width="650" height="500" />
+<img src="image/U08_2Hz_dw28_fa100_lr02_v_uabs_t015.gif" width="630" height="480" />
 
 PIV flow data at wind speed of 8m/s. Photo courtesy of Dr. Wolfgang Send.
 
 <!-- ![experiment_setup](image/HFGtl_Gesamtansicht_mitTitel_web.jpg) -->
-<img src="image/HFGtl_Gesamtansicht_mitTitel_web.jpg" width="650" height="500" />
+<img src="image/HFGtl_Gesamtansicht_mitTitel_web.jpg" width="630" height="480" />
 
 Experimental setup of the DWG for PIV data acquisition. Photo courtesy of Dr. Wolfgang Send.
 

@@ -37,4 +37,4 @@ Experimental setup of the DWG for PIV data acquisition. Photo courtesy of Dr. Wo
 
 ### Questions
 
-If you have any questions regarding this project, you can find my contact info as well as other projects at my [portfolio page](https://yanweiw.github.io/).
+If you have any questions regarding this project, you can find my contact info as well as other projects at my [portfolio page](https://yanweiw.github.io/). Cover photo credit to [Festo](https://www.festo.com/group/en/cms/10222.htm).

@@ -2,6 +2,8 @@
 
 For my undergraduate physics thesis at [Middlebury College](http://www.middlebury.edu), I did a computational fluid dynamics (CFD) simulation of [Festo's Dual-Wing generator](https://www.festo.com/group/en/cms/10222.htm) using COMSOL CFD package. This work is done in 2016, supervised by Prof. Richard Wolfson.
 
+![dwg](image/dwg.jpg)
+
 
 ### What is Dual Wing Generator
 
